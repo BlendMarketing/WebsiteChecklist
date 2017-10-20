@@ -55,7 +55,7 @@ These are the items we need to complete at each phase of the development process
   through the GUI browser? Is the information presented in a meaningful order if read serially?
 * Validate HTML
 
-# SEO
+## SEO
 
 * Page titles are descriptive and SEO friendly
 * All page titles are unique
@@ -66,12 +66,12 @@ These are the items we need to complete at each phase of the development process
 * Website can be accessed by search engines (remove noindex, nofollow for pages)
 * Google Analytics and relevant analytics/tracking tools installed
 
-# Social
+## Social
 
 * Open Graph tags included across website and appropriate? (including images where possible)
 * All social network links included, linking to correct URLs and use API for integrations (if needed)
 
-# Security
+## Security
 
 * Secure areas are locked down and not accessible by search engines
 * Default CMS login URL is changed
