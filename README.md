@@ -34,14 +34,17 @@ These are the items we need to complete at each phase of the development process
 * Check on Android and Apple device phones.
 * Use backend to add content (multiple posts, lots of text, little text, different image sizes)
 * Use WYSIWYG features (insert image, align left, align right, h space, v space, make text a link, h1, h2, h3, bold)
-* Make sure no "Hello World" pages or posts exist.
-* Images have been optimised
-* CSS is minified and combined
-* JavaScript is minified and combined (as much as possible)
-* Enable gzip compression
-* Test website speed on [Pingdom](https://tools.pingdom.com/) and [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* Make sure no "Hello World"/Lorem Ispum pages or posts exist.
 * Check 404 page
 * Check search page
+
+## Speed Checklist
+
+* set Cache Control Headers on S3 on file upload/edit
+* JavaScript/CSS/HTML is minified and combined (as much as possible)
+* Images have been optimised
+* Enable gzip compression on JSON files
+* Test website speed on [Pingdom](https://tools.pingdom.com/) and [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Accessiblity Testing
 
