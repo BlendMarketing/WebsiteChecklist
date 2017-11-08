@@ -54,6 +54,7 @@ These are the items we need to complete at each phase of the development process
 * JavaScript/CSS/HTML is minified and combined (as much as possible)
 * Images have been optimised
 * Enable gzip compression on JSON files
+* If using *TypeKit*: go to *Kit Settings* and check the *Optimize Performance* checkbox (caches for one week)
 * Test website speed on [Pingdom](https://tools.pingdom.com/) and [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Accessiblity Testing
