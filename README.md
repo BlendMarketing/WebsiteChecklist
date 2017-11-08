@@ -1,6 +1,16 @@
 # WebsiteChecklist
 These are the items we need to complete at each phase of the development process.
 
+1. [Information Gathering](#information-gathering)
+2. [Development Testing](#development-testing)
+3. [Speed Checklist](#speed-checklist)
+4. [Accessiblity Testing](#accessiblity-testing)
+5. [SEO](#seo)
+6. [Social](#social)
+7. [Security](#security)
+8. [Go Live](#go-live)
+
+
 ## Information Gathering
 
 * Current website hosting credentials Unassigned 
