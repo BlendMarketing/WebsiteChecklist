@@ -13,9 +13,9 @@ These are the items we need to complete at each phase of the development process
 
 ## Information Gathering
 
-- [ ] Mercury Current website hosting credentials Unassigned 
-- [ ] Mercury Current website domain registrar credentials
-- [ ] Mercury Current CMS credentials
+* Current website hosting credentials Unassigned 
+* Current website domain registrar credentials
+* Current CMS credentials
 * Current Google Analytics/Google Tag Manager credentials
 * Set up Route 53/AWS Acccount/S3 buckets
 * Set up Typekit account
