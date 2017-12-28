@@ -30,6 +30,7 @@ These are the items we need to complete at each phase of the development process
 
 ## Development Testing
 
+- [ ]  Make sure the site & admin redirect to HTTPS by default
 - [ ]  Test ALL Forms (functionality and make they have a logical layout) 
 - [ ]  Check form validation
 - [ ]  Check Navigation links
@@ -47,6 +48,7 @@ These are the items we need to complete at each phase of the development process
 - [ ]  Make sure no "Hello World"/Lorem Ispum pages or posts exist.
 - [ ]  Check 404 page
 - [ ]  Check search page
+- [ ]  Ensure parameters are being passed to their respective pages
 
 ## Speed Checklist
 
@@ -83,6 +85,7 @@ These are the items we need to complete at each phase of the development process
 - [ ]  Generate a new sitemap.xml and upload to root
 - [ ]  Site added to Google Webmaster tools and sitemap submitted
 - [ ]  Google Analytics has been setup and integrated into website
+- [ ]  Make sure all letter in the url are lowercase
 
 ## Social
 
