@@ -13,7 +13,7 @@ These are the items we need to complete at each phase of the development process
 
 ## Information Gathering
 
-* Current website hosting credentials Unassigned 
+* Current website hosting credentials 
 * Current website domain registrar credentials
 * Current CMS credentials
 * Current Google Analytics/Google Tag Manager credentials
